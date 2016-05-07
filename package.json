@@ -1,0 +1,20 @@
+{
+  "name": "uploadlocpic",
+  "version": "1.0.0",
+  "description": "Use Node.js Create a simple WebApplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/778477/SimpleWebApplication.git"
+  },
+  "author": "778477",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/778477/SimpleWebApplication/issues"
+  },
+  "homepage": "https://github.com/778477/SimpleWebApplication#readme"
+}
